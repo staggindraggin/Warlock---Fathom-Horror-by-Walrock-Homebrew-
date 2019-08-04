@@ -178,7 +178,7 @@ SpellsList["depthsurge"] = {
 SpellsList["red tide"] = {
     name : "Red Tide",
     classes : ["sorcerer", "warlock", "wizard"],
-    source : [["WH:FH", 4],["WH:CW", 6]],
+    source : [["WH:FH", 4],["WH:CW", 8]],
     level : 5,
     school : "Conj",
     time : "1 a",
